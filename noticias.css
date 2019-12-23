@@ -1,0 +1,67 @@
+h1{
+    color: #122102;
+    font-family: "Source Sanns Pro", sans-serif;
+    padding: 40px;
+    text-align: center;
+}
+
+.imagenes{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 70px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+}
+
+.texto{
+    width: 50%;
+    display:inline-block;
+    vertical-align:middle;
+    font-family: "Source Sans Pro", sans-serif;
+    padding-bottom: 60px;
+}
+
+.texto h3{
+    color: #83bd19;
+    font-size: 20px;
+    cursor:pointer;
+    font-family: "Source Sans Pro", sans-serif;  
+    padding-bottom: 30px;
+}
+
+.paginacion{
+    margin: 20px 0;
+}
+
+.paginacion ul {
+    list-style: none;
+    text-align: center; 
+}
+
+.paginacion ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.paginacion ul li a{
+    display:block;
+    padding: 10px 20px;
+    color: #ebf7d0;
+    background: #446b12;
+    text-decoration: none;
+    font-family: "Source sans pro", sans-serif;
+}
+
+.paginacion ul li a:hover{
+    background: #83bd19;
+}
+
+.icon-arrow-with-circle-right {
+    font-size: 20px;
+    padding-top: 20px;
+    color: #446b12;
+}
+
+.icon-arrow-with-circle-right:hover {
+    cursor: pointer;
+}
